@@ -33,6 +33,8 @@ documentação não devem incluir credenciais nem dados reais de utentes.
 
 ## Informação institucional
 
-Para conhecer a instituição e os seus serviços, consulte o website indicado no
-perfil desta organização. Os canais institucionais continuam a ser a referência
-para contactos relativos à atividade hospitalar.
+Para conhecer a instituição e os seus serviços, consulte o
+[website institucional](https://www.hospitalvilaverde.pt/) e a
+[página de contactos](https://www.hospitalvilaverde.pt/contactos/).
+O contacto geral indicado no perfil é institucional; os pedidos relativos à
+atividade hospitalar seguem os respetivos canais.
