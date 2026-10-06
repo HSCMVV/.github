@@ -1,40 +1,35 @@
-# Hospital da Santa Casa da Misericórdia de Vila Verde
+# Saúde e tecnologia na HSCMVV
 
-**Saúde · Tecnologia · Organização do trabalho**
+**Hospital da Santa Casa da Misericórdia de Vila Verde · Portugal**
 
-Este espaço reúne os projetos de tecnologia associados ao Hospital da Santa Casa
-da Misericórdia de Vila Verde, em Portugal. Centraliza código, documentação técnica
-e colaboração entre os membros da organização HSCMVV.
+Este é o espaço de código, documentação técnica e colaboração dos projetos de
+tecnologia associados à instituição. Reúne aplicações, integrações e ferramentas
+de apoio aos sistemas hospitalares e à organização do trabalho.
 
-## Áreas de trabalho
+## Áreas dos projetos
 
-Os projetos documentados abrangem aplicações de apoio à atividade hospitalar,
-integração entre sistemas, análise de informação e ferramentas de gestão.
-
-| Área | Âmbito dos projetos documentados |
+| Área | Trabalho documentado |
 | --- | --- |
 | Aplicações hospitalares | Receção, validação de atos e organização de listas de espera. |
 | Sistemas e integrações | Intercâmbio de informação, processamento de registos e ferramentas de API. |
 | Informação e análise | Stocks, movimentações e ferramentas de consulta e visualização. |
-| Equipamentos e apoio técnico | Gestão de instalações, equipamentos e pedidos de assistência. |
-| Documentação | Levantamento técnico e orientação para os projetos. |
+| Instalações e apoio técnico | Gestão de equipamentos, instalações e pedidos de assistência. |
+| Conhecimento técnico | Documentação de sistemas, aplicações e processos de colaboração. |
 
-Estas áreas descrevem o conteúdo documentado nos repositórios; não constituem um
-catálogo de serviços clínicos nem uma declaração de disponibilidade das aplicações.
+## Colaboração
 
-## Organização e colaboração
+Os repositórios de projeto têm acesso privado. Cada projeto mantém a sua
+documentação e o contexto de desenvolvimento; os membros dispõem de uma entrada
+interna com catálogo e orientação comum.
 
-Os repositórios de projeto têm acesso privado. Os membros dispõem de uma entrada
-interna com orientação, catálogo e espaços de discussão. Cada projeto mantém a
-sua documentação e o contexto necessário para preparar e rever alterações.
+O cuidado com a informação faz parte dessa orientação: usar exemplos sintéticos
+e preservar credenciais e dados de utentes.
 
-A orientação de colaboração exige cuidado com a informação: código, exemplos e
-documentação não devem incluir credenciais nem dados reais de utentes.
+## A instituição
 
-## Informação institucional
+[Website do hospital](https://www.hospitalvilaverde.pt/) ·
+[Contactos institucionais](https://www.hospitalvilaverde.pt/contactos/)
 
-Para conhecer a instituição e os seus serviços, consulte o
-[website institucional](https://www.hospitalvilaverde.pt/) e a
-[página de contactos](https://www.hospitalvilaverde.pt/contactos/).
-O contacto geral indicado no perfil é institucional; os pedidos relativos à
-atividade hospitalar seguem os respetivos canais.
+Os contactos relativos à atividade hospitalar seguem os canais institucionais.
+As áreas acima descrevem projetos documentados; não indicam disponibilidade das
+aplicações nem constituem um catálogo de serviços clínicos.
