@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/hscmvv-saude-tecnologia.svg" alt="SCMVV e HSCMVV — Santa Casa da Misericórdia de Vila Verde e o seu Hospital. Saúde e tecnologia." width="1200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/marcas-institucionais-dark.svg">
+    <img src="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/marcas-institucionais-light.svg" alt="Santa Casa da Misericórdia de Vila Verde e o seu Hospital" width="560">
+  </picture>
 </p>
 
 <p align="center">
@@ -8,7 +11,7 @@
   <a href="https://www.hospitalvilaverde.pt/contactos/">Contactos institucionais</a>
 </p>
 
-## Tecnologia ao serviço da instituição
+# HSCMVV · Saúde e tecnologia
 
 O Hospital da Santa Casa da Misericórdia de Vila Verde (HSCMVV) integra a
 Santa Casa da Misericórdia de Vila Verde (SCMVV), responsável pela sua gestão.
@@ -20,7 +23,7 @@ e à organização do trabalho.
 
 ## Áreas dos projetos
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
