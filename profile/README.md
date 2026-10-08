@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/marcas-institucionais-dark-v2.svg">
-    <img src="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/marcas-institucionais-light-v2.svg" alt="Santa Casa da Misericórdia de Vila Verde e o seu Hospital" width="600">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/marcas-institucionais-dark-v3.svg">
+    <img src="https://raw.githubusercontent.com/HSCMVV/.github/main/profile/assets/marcas-institucionais-light-v3.svg" alt="Santa Casa da Misericórdia de Vila Verde e o seu Hospital" width="600">
   </picture>
 </div>
 
