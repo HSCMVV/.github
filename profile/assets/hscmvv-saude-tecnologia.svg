@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">HSCMVV — Saúde e tecnologia</title>
+  <desc id="desc">Hospital da Santa Casa da Misericórdia de Vila Verde, Portugal. Capa institucional com fundo claro, tipografia azul-escura e apontamentos vermelhos.</desc>
+  <rect width="1200" height="320" rx="18" fill="#f5f7f9"/>
+  <rect x="0" y="30" width="8" height="260" rx="4" fill="#bd2435"/>
+  <path d="M945 0H1200V320H1080Z" fill="#e9eef2"/>
+  <path d="M1085 0H1200V320H1160Z" fill="#dfe7ed"/>
+  <g fill="none" stroke="#8da4b4" stroke-width="2">
+    <path d="M1010 68L1110 106L1045 190L1140 250"/>
+    <path d="M1110 106L1150 52M1045 190L980 252"/>
+  </g>
+  <g fill="#f5f7f9" stroke="#8da4b4" stroke-width="2">
+    <circle cx="1010" cy="68" r="7"/><circle cx="1110" cy="106" r="7"/>
+    <circle cx="1045" cy="190" r="7"/><circle cx="1140" cy="250" r="7"/>
+    <circle cx="1150" cy="52" r="5"/><circle cx="980" cy="252" r="5"/>
+  </g>
+  <circle cx="1110" cy="106" r="7" fill="#bd2435"/>
+  <g font-family="Segoe UI, Arial, sans-serif" fill="#173247">
+    <text x="56" y="100" font-size="58" font-weight="700" letter-spacing="2">HSCMVV</text>
+    <text x="58" y="151" font-size="32" font-weight="600">Saúde e tecnologia</text>
+    <path d="M58 176H115" stroke="#bd2435" stroke-width="4"/>
+    <text x="58" y="218" font-size="23">Hospital da Santa Casa da Misericórdia</text>
+    <text x="58" y="250" font-size="23">de Vila Verde</text>
+    <text x="58" y="289" font-size="14" letter-spacing="3" fill="#496274">PORTUGAL</text>
+  </g>
+</svg>
